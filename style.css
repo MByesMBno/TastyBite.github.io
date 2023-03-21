@@ -423,3 +423,30 @@ body{
   #goneButton-20{ border: none; background-color: transparent; opacity: 0;}
   #goneButton-21{ border: none; background-color: transparent; opacity: 0;}
   #goneButton-22{ border: none; background-color: transparent; opacity: 0;}
+
+
+
+
+
+@media(max-width:1400px){
+
+  .form-popup {
+    display: none;
+    position: fixed;
+    bottom: 64%;
+    right: 0px;
+    border: none;
+    z-index: 9;
+    
+  }
+
+  .form-popup2 {
+    display: none;
+    position: fixed;
+    bottom: 54.6%;
+    right: 0px;
+    border: none;
+    z-index: 9;
+    
+  }
+} 
