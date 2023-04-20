@@ -1,0 +1,4 @@
+host: localhost
+database: g95051xg_tastyb
+user: g95051xg_tastyb
+password: Hektn12345
